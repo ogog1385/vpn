@@ -1,0 +1,6 @@
+[project]
+name = "core-tunnel-client"
+version = "1.0.0"
+description = "Core Tunnel Client"
+requires-python = ">=3.10"
+dependencies = ["flet==0.28.3"]
